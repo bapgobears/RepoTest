@@ -1,2 +1,2 @@
 # RepoTest
-check out some features
+text in the readme file
